@@ -1,0 +1,9 @@
+E:\C# Work\RabbitVsTortoise\RabbitVsTortoise\bin\Debug\RabbitVsTortoise.exe.config
+E:\C# Work\RabbitVsTortoise\RabbitVsTortoise\bin\Debug\RabbitVsTortoise.exe
+E:\C# Work\RabbitVsTortoise\RabbitVsTortoise\bin\Debug\RabbitVsTortoise.pdb
+E:\C# Work\RabbitVsTortoise\RabbitVsTortoise\obj\Debug\RabbitVsTortoise.csprojResolveAssemblyReference.cache
+E:\C# Work\RabbitVsTortoise\RabbitVsTortoise\obj\Debug\RabbitVsTortoise.Properties.Resources.resources
+E:\C# Work\RabbitVsTortoise\RabbitVsTortoise\obj\Debug\RabbitVsTortoise.csproj.GenerateResource.Cache
+E:\C# Work\RabbitVsTortoise\RabbitVsTortoise\obj\Debug\RabbitVsTortoise.exe
+E:\C# Work\RabbitVsTortoise\RabbitVsTortoise\obj\Debug\RabbitVsTortoise.pdb
+E:\C# Work\RabbitVsTortoise\RabbitVsTortoise\obj\Debug\RabbitVsTortoise.RabbitVsTortoiseForm.resources
